@@ -14,7 +14,15 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Описываемый объект: База данных - Заказы",
+                    "text": "Описываемый объект: База данных - Заказы"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Class",
                     "link": "https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_class.txt"
                 }
             ]
