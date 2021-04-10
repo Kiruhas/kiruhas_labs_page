@@ -1,11 +1,11 @@
 {
-    "title": "Лабораторная работа 5",
+    "title": "Лабораторная работа 6",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Структура объекта системы",
+                    "text": "Описание алгоритма",
                     "class": "md-title"
                 }
             ]
@@ -14,14 +14,21 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Описываемый объект: База данных - Заказы",
-                    "link": "https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_class.txt"
+                    "text": "Описываемые процессы и потоки данных: A23 Распределение погрузочных мест"
+                }
+            ]
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence",
+                    "link": "https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_sequence.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_class.png?raw=true" 
+            "data":"https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_sequence.png?raw=true" 
         },
     ]
 }
