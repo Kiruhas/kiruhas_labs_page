@@ -2,13 +2,25 @@
     {
         "id": 1,
         "title": "Лабораторная 4",
-        "description": "Диаграмма прецедента (UML Use Case)",
+        "description": "Диаграмма UML Use Case",
         "preview": "https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_usecase.png?raw=true"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "Лабораторная 5",
+        "description": "Диаграмма UML Class",
+        "preview": "https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_class.png?raw=true"
+    }
+    {
+        "id": 3,
+        "title": "Лабораторная 6",
+        "description": "Диаграмма UML Sequence",
+        "preview": "https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_sequence.png?raw=true"
+    }
+    {
+        "id": 4,
+        "title": "Лабораторная 7",
+        "description": "Диаграмма UML Component",
+        "preview": "https://github.com/Kiruhas/KirillOvchinnikov.github.io/blob/master/diagrams/uml_component.png?raw=true"
     }
 ]
